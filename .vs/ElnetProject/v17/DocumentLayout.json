@@ -1,0 +1,2353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\communication\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\communication\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\shared\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\shared\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\shared\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\shared\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\user\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\shared\\alertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\shared\\alertviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\shared\\breadcrumbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\shared\\breadcrumbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\shared\\notificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\shared\\notificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\shared\\selectlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\shared\\selectlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\shared\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\shared\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\staff\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\staff\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\homeowner\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\homeowner\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\admin\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\admin\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\admin\\usermanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\admin\\usermanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\viewmodels\\account\\admincreateuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\viewmodels\\account\\admincreateuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\user\\homeowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\user\\homeowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\service\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\service\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\security\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\security\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\notice\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\notice\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\notice\\noticetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\notice\\noticetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\communication\\notificationpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\communication\\notificationpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\poll\\pollvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\poll\\pollvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\poll\\polloption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\poll\\polloption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\poll\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\poll\\poll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\event\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\event\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\event\\eventattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\event\\eventattendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\event\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\event\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\facility\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\facility\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\document\\documentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\document\\documentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\document\\documentaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\document\\documentaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\document\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\document\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\service\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\service\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\service\\servicerequestupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\service\\servicerequestupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\billing\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\billing\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\billing\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\billing\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\billing\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\billing\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\communication\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\communication\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\security\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\security\\emergencycontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\security\\visitorpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\security\\visitorpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\forum\\forumattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\forum\\forumattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\forum\\forumreply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\forum\\forumreply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\forum\\forumtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\forum\\forumtopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\forum\\forumcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\forum\\forumcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\facility\\facilityreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\facility\\facilityreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\facility\\facilitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\facility\\facilitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\user\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\user\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\models\\domain\\user\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\models\\domain\\user\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\wwwroot\\js\\homeowner.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\wwwroot\\js\\homeowner.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\wwwroot\\js\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\wwwroot\\js\\admin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\wwwroot\\css\\homeowner.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\wwwroot\\css\\homeowner.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\shared\\_homeownerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\shared\\_homeownerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\shared\\_stafflayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\shared\\_stafflayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\homeowner\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\homeowner\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\homeowner\\payments\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\homeowner\\payments\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\homeowner\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\homeowner\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\homeowner\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\homeowner\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\homeowner\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\homeowner\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\staff\\servicerequests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\staff\\servicerequests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\staff\\servicerequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\staff\\servicerequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\staff\\facilities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\staff\\facilities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\staff\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\staff\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\admin\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\admin\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\admin\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\admin\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\views\\admin\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\views\\admin\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\helpers\\datetimehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\helpers\\datetimehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\extensions\\iservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\constants\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\constants\\roleconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\constants\\roleconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\utils\\constants\\folderconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\utils\\constants\\folderconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\implementations\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\implementations\\announcementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\implementations\\announcementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\implementations\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\implementations\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\interfaces\\iannouncementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\interfaces\\iannouncementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\services\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\services\\interfaces\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\implementations\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\implementations\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\implementations\\announcementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\implementations\\announcementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\implementations\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\implementations\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\interfaces\\iannouncementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\interfaces\\iannouncementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\data\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\data\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\shared\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\shared\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\shared\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\shared\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\homeowner\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\homeowner\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\homeowner\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\homeowner\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\homeowner\\homeownerdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\homeowner\\homeownerdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\staff\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\staff\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\staff\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\staff\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\staff\\staffdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\staff\\staffdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\admin\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\admin\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\admin\\announcementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\admin\\announcementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\admin\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\admin\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\controllers\\admin\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\controllers\\admin\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\configuration\\security\\securityheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\configuration\\security\\securityheaders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\configuration\\security\\authorizationpolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\configuration\\security\\authorizationpolicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\configuration\\security\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\configuration\\security\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\configuration\\automapper\\customconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\configuration\\automapper\\customconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\configuration\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\configuration\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|c:\\users\\asus\\source\\repos\\elnetproject\\elnetproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D491A8E-04CF-4D89-9E06-C8B972D85BAA}|ElnetProject\\ElnetProject.csproj|solutionrelative:elnetproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T14:04:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T14:03:07.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ElnetProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\appsettings.json",
+              "RelativeToolTip": "ElnetProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T10:29:07.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Program.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Program.cs",
+              "RelativeToolTip": "ElnetProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:39:01.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Communication\\Message.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Communication\\Message.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Communication\\Message.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Communication\\Message.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:01:01.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:54:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:14:18.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Shared\\HomeController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Shared\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Shared\\HomeController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Shared\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:52:29.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\User\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\ApplicationUser.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\User\\ApplicationUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:16:58.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:41:08.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Shared\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\ErrorViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Shared\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:04:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlertViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\AlertViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Shared\\AlertViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\AlertViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Shared\\AlertViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:04:53.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BreadcrumbViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\BreadcrumbViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Shared\\BreadcrumbViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\BreadcrumbViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Shared\\BreadcrumbViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:04:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\NotificationViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Shared\\NotificationViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\NotificationViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Shared\\NotificationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:03:30.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SelectListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\SelectListViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Shared\\SelectListViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\SelectListViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Shared\\SelectListViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:02:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Admin\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Admin\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Admin\\DashboardViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Admin\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:12:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\HomeOwner\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\HomeOwner\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\HomeOwner\\DashboardViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\HomeOwner\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:13:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Staff\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Staff\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Staff\\DashboardViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Staff\\DashboardViewModel.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:12:36.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Shared\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Shared\\PaginatedList.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Shared\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:04:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Admin\\UserManagementViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Admin\\UserManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Admin\\UserManagementViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Admin\\UserManagementViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:12:15.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:45:17.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\RegisterViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:03:44.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ProfileViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\ProfileViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:11:37.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:03:29.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:44:52.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\EditProfileViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\EditProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\EditProfileViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\EditProfileViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:44:16.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:42:53.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminCreateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\AdminCreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\ViewModels\\Account\\AdminCreateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\ViewModels\\Account\\AdminCreateUserViewModel.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\ViewModels\\Account\\AdminCreateUserViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:35:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Service\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Service\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Service\\ServiceRequest.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Service\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:06:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Security\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Security\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Security\\Vehicle.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Security\\Vehicle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:00:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Notice.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Notice\\Notice.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Notice\\Notice.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Notice\\Notice.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Notice\\Notice.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:00:54.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NoticeType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Notice\\NoticeType.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Notice\\NoticeType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Notice\\NoticeType.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Notice\\NoticeType.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:01:40.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotificationPreference.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Communication\\NotificationPreference.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Communication\\NotificationPreference.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Communication\\NotificationPreference.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Communication\\NotificationPreference.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:05:20.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeOwner.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\HomeOwner.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\User\\HomeOwner.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\HomeOwner.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\User\\HomeOwner.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:58:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PollVote.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Poll\\PollVote.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Poll\\PollVote.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Poll\\PollVote.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Poll\\PollVote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:08:36.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PollOption.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Poll\\PollOption.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Poll\\PollOption.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Poll\\PollOption.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Poll\\PollOption.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:08:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Poll.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Poll\\Poll.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Poll\\Poll.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Poll\\Poll.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Poll\\Poll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:08:12.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Event\\EventType.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Event\\EventType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Event\\EventType.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Event\\EventType.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:07:57.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EventAttendee.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Event\\EventAttendee.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Event\\EventAttendee.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Event\\EventAttendee.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Event\\EventAttendee.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:07:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Event\\Event.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Event\\Event.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Event\\Event.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Event\\Event.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:07:31.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Facility\\Facility.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Facility\\Facility.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Facility\\Facility.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Facility\\Facility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:59:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DocumentCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Document\\DocumentCategory.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Document\\DocumentCategory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Document\\DocumentCategory.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Document\\DocumentCategory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA0wC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:07:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DocumentAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Document\\DocumentAccess.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Document\\DocumentAccess.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Document\\DocumentAccess.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Document\\DocumentAccess.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA0wFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:07:15.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Document\\Document.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Document\\Document.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Document\\Document.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Document\\Document.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:06:56.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Service\\ServiceType.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Service\\ServiceType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Service\\ServiceType.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Service\\ServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:06:44.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ServiceRequestUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Service\\ServiceRequestUpdate.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Service\\ServiceRequestUpdate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Service\\ServiceRequestUpdate.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Service\\ServiceRequestUpdate.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:06:24.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Billing\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Billing\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Billing\\PaymentMethod.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Billing\\PaymentMethod.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA0wD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:05:57.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Billing\\Payment.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Billing\\Payment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Billing\\Payment.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Billing\\Payment.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:05:49.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Billing\\Bill.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Billing\\Bill.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Billing\\Bill.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Billing\\Bill.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA0wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:05:37.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Communication\\Announcement.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Communication\\Announcement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Communication\\Announcement.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Communication\\Announcement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:00:51.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmergencyContact.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Security\\EmergencyContact.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Security\\EmergencyContact.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Security\\EmergencyContact.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Security\\EmergencyContact.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA0wDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:04:38.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "VisitorPass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Security\\VisitorPass.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Security\\VisitorPass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Security\\VisitorPass.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Security\\VisitorPass.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA0wD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:00:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ForumAttachment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumAttachment.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Forum\\ForumAttachment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumAttachment.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Forum\\ForumAttachment.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA0wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:04:18.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ForumReply.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumReply.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Forum\\ForumReply.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumReply.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Forum\\ForumReply.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:59:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ForumTopic.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumTopic.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Forum\\ForumTopic.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumTopic.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Forum\\ForumTopic.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA0wDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:59:41.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ForumCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumCategory.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Forum\\ForumCategory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Forum\\ForumCategory.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Forum\\ForumCategory.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:59:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FacilityReservation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Facility\\FacilityReservation.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Facility\\FacilityReservation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Facility\\FacilityReservation.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Facility\\FacilityReservation.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:59:18.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FacilityType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Facility\\FacilityType.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\Facility\\FacilityType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\Facility\\FacilityType.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\Facility\\FacilityType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:03:43.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\Staff.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\User\\Staff.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\Staff.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\User\\Staff.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:58:07.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\Admin.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Models\\Domain\\User\\Admin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Models\\Domain\\User\\Admin.cs",
+              "RelativeToolTip": "ElnetProject\\Models\\Domain\\User\\Admin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:57:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ElnetProject\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ElnetProject\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T10:42:55.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "admin.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\js\\admin.js",
+              "RelativeDocumentMoniker": "ElnetProject\\wwwroot\\js\\admin.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\js\\admin.js",
+              "RelativeToolTip": "ElnetProject\\wwwroot\\js\\admin.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T10:25:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "homeowner.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\js\\homeowner.js",
+              "RelativeDocumentMoniker": "ElnetProject\\wwwroot\\js\\homeowner.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\js\\homeowner.js",
+              "RelativeToolTip": "ElnetProject\\wwwroot\\js\\homeowner.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T10:25:58.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "homeowner.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\css\\homeowner.css",
+              "RelativeDocumentMoniker": "ElnetProject\\wwwroot\\css\\homeowner.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\css\\homeowner.css",
+              "RelativeToolTip": "ElnetProject\\wwwroot\\css\\homeowner.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T10:24:53.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "ElnetProject\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "ElnetProject\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T10:24:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_HomeOwnerLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\_HomeOwnerLayout.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Shared\\_HomeOwnerLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\_HomeOwnerLayout.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Shared\\_HomeOwnerLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:23:29.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_StaffLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\_StaffLayout.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Shared\\_StaffLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\_StaffLayout.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Shared\\_StaffLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:23:12.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:22:48.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\HomeOwner\\Reservations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\HomeOwner\\Reservations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:22:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Payments\\History.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\HomeOwner\\Payments\\History.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Payments\\History.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\HomeOwner\\Payments\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:21:42.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Reservations\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\HomeOwner\\Reservations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Reservations\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\HomeOwner\\Reservations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:20:58.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Payments\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\HomeOwner\\Payments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Payments\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\HomeOwner\\Payments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:20:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\HomeOwner\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\HomeOwner\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\HomeOwner\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:20:35.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\ServiceRequests\\Details.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Staff\\ServiceRequests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\ServiceRequests\\Details.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Staff\\ServiceRequests\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:18:50.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\ServiceRequests\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Staff\\ServiceRequests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\ServiceRequests\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Staff\\ServiceRequests\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:18:34.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\Facilities\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Staff\\Facilities\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\Facilities\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Staff\\Facilities\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:18:20.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Staff\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Staff\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Staff\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:18:00.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Reports\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Admin\\Reports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Reports\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Admin\\Reports\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:15:30.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Admin\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Users\\Edit.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Admin\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:15:05.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Admin\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Users\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Admin\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:14:40.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Views\\Admin\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Views\\Admin\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Views\\Admin\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:14:20.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:10:32.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:10:23.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:10:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Helpers\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Helpers\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Helpers\\EncryptionHelper.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Helpers\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:09:57.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DateTimeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Helpers\\DateTimeHelper.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Helpers\\DateTimeHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Helpers\\DateTimeHelper.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Helpers\\DateTimeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:09:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:09:42.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:09:25.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:09:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Extensions\\IServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Extensions\\IServiceCollectionExtensions.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Extensions\\IServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:09:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "MessageConstants.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Constants\\MessageConstants.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Constants\\MessageConstants.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Constants\\MessageConstants.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Constants\\MessageConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:08:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "RoleConstants.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Constants\\RoleConstants.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Constants\\RoleConstants.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Constants\\RoleConstants.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Constants\\RoleConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:08:34.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "FolderConstants.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Constants\\FolderConstants.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Utils\\Constants\\FolderConstants.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Utils\\Constants\\FolderConstants.cs",
+              "RelativeToolTip": "ElnetProject\\Utils\\Constants\\FolderConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:08:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\FileService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Implementations\\FileService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\FileService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Implementations\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:07:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Implementations\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:07:29.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "AnnouncementService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\AnnouncementService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Implementations\\AnnouncementService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\AnnouncementService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Implementations\\AnnouncementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:07:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:07:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\BaseService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Implementations\\BaseService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Implementations\\BaseService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Implementations\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:06:31.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:06:15.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:06:04.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "IAnnouncementService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IAnnouncementService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Interfaces\\IAnnouncementService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IAnnouncementService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Interfaces\\IAnnouncementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:05:54.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:05:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IBaseService.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Services\\Interfaces\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Services\\Interfaces\\IBaseService.cs",
+              "RelativeToolTip": "ElnetProject\\Services\\Interfaces\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:05:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Implementations\\DocumentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\DocumentRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Implementations\\DocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:57:13.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "AnnouncementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\AnnouncementRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Implementations\\AnnouncementRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\AnnouncementRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Implementations\\AnnouncementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:56:57.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:56:43.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Implementations\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Implementations\\BaseRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Implementations\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:56:30.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Interfaces\\IDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IDocumentRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Interfaces\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:56:13.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "IAnnouncementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IAnnouncementRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Interfaces\\IAnnouncementRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IAnnouncementRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Interfaces\\IAnnouncementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:55:54.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:55:34.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Data\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Data\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "ElnetProject\\Data\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:54:57.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Shared\\DocumentController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Shared\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Shared\\DocumentController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Shared\\DocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:53:39.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Shared\\ErrorController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Shared\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Shared\\ErrorController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Shared\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:53:10.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\HomeOwner\\ReservationController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\HomeOwner\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\HomeOwner\\ReservationController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\HomeOwner\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:52:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\HomeOwner\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\HomeOwner\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\HomeOwner\\PaymentController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\HomeOwner\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:51:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "HomeOwnerDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\HomeOwner\\HomeOwnerDashboardController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\HomeOwner\\HomeOwnerDashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\HomeOwner\\HomeOwnerDashboardController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\HomeOwner\\HomeOwnerDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:51:24.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "FacilityController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Staff\\FacilityController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Staff\\FacilityController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Staff\\FacilityController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Staff\\FacilityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:50:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ServiceRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Staff\\ServiceRequestController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Staff\\ServiceRequestController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Staff\\ServiceRequestController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Staff\\ServiceRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:50:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "StaffDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Staff\\StaffDashboardController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Staff\\StaffDashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Staff\\StaffDashboardController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Staff\\StaffDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:49:47.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\ReportController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Admin\\ReportController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\ReportController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Admin\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:49:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "AnnouncementController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\AnnouncementController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Admin\\AnnouncementController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\AnnouncementController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Admin\\AnnouncementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:48:56.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Admin\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\UserManagementController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Admin\\UserManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:48:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Controllers\\Admin\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Controllers\\Admin\\AdminDashboardController.cs",
+              "RelativeToolTip": "ElnetProject\\Controllers\\Admin\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:48:16.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "SecurityHeaders.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\Security\\SecurityHeaders.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Configuration\\Security\\SecurityHeaders.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\Security\\SecurityHeaders.cs",
+              "RelativeToolTip": "ElnetProject\\Configuration\\Security\\SecurityHeaders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:47:42.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "AuthorizationPolicies.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\Security\\AuthorizationPolicies.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Configuration\\Security\\AuthorizationPolicies.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\Security\\AuthorizationPolicies.cs",
+              "RelativeToolTip": "ElnetProject\\Configuration\\Security\\AuthorizationPolicies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:47:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\Security\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Configuration\\Security\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\Security\\JwtConfig.cs",
+              "RelativeToolTip": "ElnetProject\\Configuration\\Security\\JwtConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:47:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "CustomConverters.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\AutoMapper\\CustomConverters.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Configuration\\AutoMapper\\CustomConverters.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\AutoMapper\\CustomConverters.cs",
+              "RelativeToolTip": "ElnetProject\\Configuration\\AutoMapper\\CustomConverters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:46:05.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Configuration\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Configuration\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "ElnetProject\\Configuration\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:45:43.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:44:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:44:24.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "PersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:43:33.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:43:10.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:42:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:41:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:41:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:40:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ElnetProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:40:10.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
