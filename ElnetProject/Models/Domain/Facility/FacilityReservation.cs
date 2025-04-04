@@ -15,7 +15,7 @@ namespace ElnetProject.Models.Domain.Facility
         public int FacilityId { get; set; }
 
         [Required]
-        public string HomeOwnerId { get; set; }
+        public int HomeOwnerId { get; set; }
 
         [Required]
         public DateTime ReservationDate { get; set; }

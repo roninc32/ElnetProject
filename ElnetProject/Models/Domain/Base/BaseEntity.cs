@@ -7,7 +7,6 @@ namespace ElnetProject.Models.Domain.Base
         [Required]
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-        [Required]
         [StringLength(100)]
         public string CreatedBy { get; set; }
 

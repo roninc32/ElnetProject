@@ -1,8 +1,69 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="hero-section">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h1 class="display-4 fw-bold mb-4">Welcome to Your Community Portal</h1>
+                <p class="lead mb-4">Manage your property, connect with neighbors, and access community services all in one place.</p>
+                <a href="/Identity/Account/Register" class="btn btn-custom">Get Started</a>
+            </div>
+            <div class="col-lg-6">
+                <img src="~/images/community-illustration.svg" alt="Community" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        <h2 class="text-center section-title">Why Choose Us?</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-house-door fs-4 text-primary"></i>
+                    </div>
+                    <h3 class="h5 mb-3">Property Management</h3>
+                    <p class="text-muted">Easily manage your property details, maintenance requests, and important documents.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-credit-card fs-4 text-primary"></i>
+                    </div>
+                    <h3 class="h5 mb-3">Online Payments</h3>
+                    <p class="text-muted">Pay your bills and manage your payments securely through our portal.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-chat-dots fs-4 text-primary"></i>
+                    </div>
+                    <h3 class="h5 mb-3">Community Connect</h3>
+                    <p class="text-muted">Stay connected with your community and receive important updates.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h2 class="section-title">Ready to Join?</h2>
+                <p class="mb-4">Create your account today and experience the convenience of managing your property online.</p>
+                <a href="/Identity/Account/Register" class="btn btn-custom">Create Account</a>
+            </div>
+            <div class="col-lg-6">
+                <img src="~/images/join-illustration.svg" alt="Join Us" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>

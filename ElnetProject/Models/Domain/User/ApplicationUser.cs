@@ -7,6 +7,14 @@ namespace ElnetProject.Models.Domain.User
 {
     public class ApplicationUser : IdentityUser
     {
+        public ApplicationUser()
+        {
+            // Initialize collections
+            SentMessages = new HashSet<Message>();
+            ReceivedMessages = new HashSet<Message>();
+            ServiceRequests = new HashSet<ServiceRequest>();
+        }
+
         [Required]
         [StringLength(100)]
         public string FirstName { get; set; }

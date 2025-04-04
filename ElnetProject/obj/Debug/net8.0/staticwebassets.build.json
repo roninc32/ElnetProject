@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HMu71oOCofUSk1nOMyckAuXTJfqvT4HLd7hhHRfT7p0=",
+  "Hash": "kZDyAWK/8NHb7nfDh1BhNcGyoYcKvH+eN7rWg6T75Cw=",
   "Source": "ElnetProject",
   "BasePath": "_content/ElnetProject",
   "Mode": "Default",
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "dx3fwqgg20",
-      "Integrity": "X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y=",
+      "Fingerprint": "owh27lx6c9",
+      "Integrity": "2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ElnetProject.styles.css"
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "dx3fwqgg20",
-      "Integrity": "X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y=",
+      "Fingerprint": "owh27lx6c9",
+      "Integrity": "2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ElnetProject.bundle.scp.css"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3r8b2a0bt1",
-      "Integrity": "8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "Fingerprint": "3677m4g7li",
+      "Integrity": "9bkqixIUKJq+SYJ2liCJyweGIWOMprVGE6luXbyUU4c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2921,7 +2921,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "7359"
         },
         {
           "Name": "Content-Type",
@@ -2929,11 +2929,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y=\""
+          "Value": "\"2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:05:29 GMT"
+          "Value": "Tue, 01 Apr 2025 03:31:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2943,12 +2943,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y="
+          "Value": "sha256-2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8="
         }
       ]
     },
     {
-      "Route": "ElnetProject.dx3fwqgg20.bundle.scp.css",
+      "Route": "ElnetProject.owh27lx6c9.bundle.scp.css",
       "AssetFile": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ElnetProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2958,7 +2958,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "7359"
         },
         {
           "Name": "Content-Type",
@@ -2966,11 +2966,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y=\""
+          "Value": "\"2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:05:29 GMT"
+          "Value": "Tue, 01 Apr 2025 03:31:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2980,7 +2980,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dx3fwqgg20"
+          "Value": "owh27lx6c9"
         },
         {
           "Name": "label",
@@ -2988,12 +2988,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y="
+          "Value": "sha256-2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8="
         }
       ]
     },
     {
-      "Route": "ElnetProject.dx3fwqgg20.styles.css",
+      "Route": "ElnetProject.owh27lx6c9.styles.css",
       "AssetFile": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ElnetProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3003,7 +3003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "7359"
         },
         {
           "Name": "Content-Type",
@@ -3011,11 +3011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y=\""
+          "Value": "\"2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:05:29 GMT"
+          "Value": "Tue, 01 Apr 2025 03:31:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3025,7 +3025,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dx3fwqgg20"
+          "Value": "owh27lx6c9"
         },
         {
           "Name": "label",
@@ -3033,7 +3033,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y="
+          "Value": "sha256-2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8="
         }
       ]
     },
@@ -3048,7 +3048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "7359"
         },
         {
           "Name": "Content-Type",
@@ -3056,11 +3056,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y=\""
+          "Value": "\"2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 14:05:29 GMT"
+          "Value": "Tue, 01 Apr 2025 03:31:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3070,7 +3070,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-X3YlXWgR8JeTtkEnRbvDraxbSl9adTz9POFNC9tSe/Y="
+          "Value": "sha256-2M30qItQ9WOogxEEtxgYzLFZOgVFakaWB0v+BYpsbR8="
         }
       ]
     },
@@ -5541,7 +5541,7 @@
       ]
     },
     {
-      "Route": "js/site.3r8b2a0bt1.js",
+      "Route": "js/site.3677m4g7li.js",
       "AssetFile": "C:\\Users\\ASUS\\source\\repos\\ElnetProject\\ElnetProject\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5551,7 +5551,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "276"
         },
         {
           "Name": "Content-Type",
@@ -5559,11 +5559,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"9bkqixIUKJq+SYJ2liCJyweGIWOMprVGE6luXbyUU4c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 10:43:01 GMT"
+          "Value": "Mon, 31 Mar 2025 20:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5573,7 +5573,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3r8b2a0bt1"
+          "Value": "3677m4g7li"
         },
         {
           "Name": "label",
@@ -5581,7 +5581,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-9bkqixIUKJq+SYJ2liCJyweGIWOMprVGE6luXbyUU4c="
         }
       ]
     },
@@ -5596,7 +5596,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3"
+          "Value": "276"
         },
         {
           "Name": "Content-Type",
@@ -5604,11 +5604,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=\""
+          "Value": "\"9bkqixIUKJq+SYJ2liCJyweGIWOMprVGE6luXbyUU4c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 30 Mar 2025 10:43:01 GMT"
+          "Value": "Mon, 31 Mar 2025 20:43:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5618,7 +5618,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U="
+          "Value": "sha256-9bkqixIUKJq+SYJ2liCJyweGIWOMprVGE6luXbyUU4c="
         }
       ]
     },

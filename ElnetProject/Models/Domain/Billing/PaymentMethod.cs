@@ -11,7 +11,7 @@ namespace ElnetProject.Models.Domain.Billing
         public int Id { get; set; }
 
         [Required]
-        public string HomeOwnerId { get; set; }
+        public int HomeOwnerId { get; set; }
 
         [Required]
         [StringLength(50)]

@@ -1,3 +1,4 @@
+using ElnetProject.Data.Context;
 using ElnetProject.Data;
 using ElnetProject.Models.Domain.User;
 using Microsoft.AspNetCore.Identity;
@@ -6,12 +7,20 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
 
 // Configure database
+// Update this in Program.cs
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+        sqlServerOptionsAction: sqlOptions =>
+        {
+            sqlOptions.EnableRetryOnFailure(
+                maxRetryCount: 5,
+                maxRetryDelay: TimeSpan.FromSeconds(30),
+                errorNumbersToAdd: null);
+        }));
 // Configure Identity
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
 {
@@ -61,6 +70,7 @@ app.Use(async (context, next) =>
     await next();
 });
 
+app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
@@ -69,24 +79,25 @@ app.MapControllerRoute(
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
-    try
-    {
-        var context = services.GetRequiredService<ApplicationDbContext>();
-        var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
-        var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
+        try
+        {
+            var context = services.GetRequiredService<ApplicationDbContext>();
+            var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
+            var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
 
-        // Ensure database is created and migrations are applied
-        context.Database.Migrate();
+            // Apply migrations
+            await context.Database.MigrateAsync();
 
-        // Call DbSeeder to initialize data
-        await DbSeeder.SeedDataAsync(context, userManager, roleManager);
+            // Seed data
+            await DbSeeder.SeedDataAsync(context, userManager, roleManager);
 
-        Console.WriteLine($"Database initialized and seeded successfully at {DateTime.UtcNow:yyyy-MM-dd HH:mm:ss} by roninc32");
-    }
-    catch (Exception ex)
-    {
-        Console.WriteLine($"An error occurred while initializing the database at {DateTime.UtcNow:yyyy-MM-dd HH:mm:ss}");
-        Console.WriteLine($"Error: {ex.Message}");
+            app.Logger.LogInformation("Database initialized and seeded successfully");
+        }
+            catch (Exception ex)
+        {
+        app.Logger.LogError(ex, "An error occurred while initializing the database");
+        // Consider whether you want to prevent application startup on seeding failure
+        throw;
     }
 }
 

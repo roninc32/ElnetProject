@@ -14,13 +14,13 @@ namespace ElnetProject.Models.Domain.Service
         public int ServiceRequestId { get; set; }
 
         [Required]
-        public string UpdatedById { get; set; }
+        public string UpdatedById { get; set; }  // Correct as string (ApplicationUser Id)
 
         [Required]
         public string Content { get; set; }
 
         [StringLength(50)]
-        public string UpdateType { get; set; } = "Status"; // Status, Comment, Assignment, Schedule
+        public string UpdateType { get; set; } = "Status";
 
         [StringLength(50)]
         public string? OldStatus { get; set; }
@@ -28,9 +28,9 @@ namespace ElnetProject.Models.Domain.Service
         [StringLength(50)]
         public string? NewStatus { get; set; }
 
-        public string? OldAssigneeId { get; set; }
+        public int? OldAssigneeId { get; set; }  // Change to int? to match Staff.Id
 
-        public string? NewAssigneeId { get; set; }
+        public int? NewAssigneeId { get; set; }  // Already correct
 
         public DateTime? OldScheduledDate { get; set; }
 
@@ -47,7 +47,7 @@ namespace ElnetProject.Models.Domain.Service
 
         public DateTime? AcknowledgedAt { get; set; }
 
-        public string? AcknowledgedById { get; set; }
+        public string? AcknowledgedById { get; set; }  // Correct as string (ApplicationUser Id)
 
         // Navigation properties
         [ForeignKey("ServiceRequestId")]

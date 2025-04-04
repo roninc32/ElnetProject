@@ -122,6 +122,10 @@ C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\ElnetProje
 C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\ElnetProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\ElnetProject.RazorAssemblyInfo.cache
 C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\ElnetProject.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\ElnetProject.sourcelink.json
+C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\scopedcss\Areas\Identity\Pages\Account\Login.cshtml.rz.scp.css
+C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\scopedcss\Areas\Identity\Pages\Account\Register.cshtml.rz.scp.css
+C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\scopedcss\Views\Home\index.cshtml.rz.scp.css
 C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\scopedcss\bundle\ElnetProject.styles.css
 C:\Users\ASUS\source\repos\ElnetProject\ElnetProject\obj\Debug\net8.0\scopedcss\projectbundle\ElnetProject.bundle.scp.css

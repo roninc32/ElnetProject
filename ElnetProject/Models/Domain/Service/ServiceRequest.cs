@@ -11,7 +11,7 @@ namespace ElnetProject.Models.Domain.Service
         public int Id { get; set; }
 
         [Required]
-        public string HomeOwnerId { get; set; }
+        public int HomeOwnerId { get; set; }
 
         [Required]
         public int ServiceTypeId { get; set; }
@@ -30,7 +30,7 @@ namespace ElnetProject.Models.Domain.Service
         [StringLength(50)]
         public string Status { get; set; } = "Pending"; // Pending, Assigned, InProgress, Completed, Cancelled
 
-        public string? AssignedToId { get; set; }
+        public int? AssignedToId { get; set; }
 
         public DateTime? PreferredDate { get; set; }
 
